@@ -40,6 +40,7 @@ body{
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 .conteudo-principal-escrito{
     display: flex;
